@@ -12,6 +12,7 @@ I'm **Lin JiaYe**, a senior at SYSU.
 -   :key: 
 
 ---
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
