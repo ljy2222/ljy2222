@@ -1,4 +1,4 @@
-## Hey, ljy here! :wave:
+## Hey, Joeyyy here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ljy2222&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
