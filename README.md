@@ -11,9 +11,5 @@ I'm **Lin JiaYe**, a senior at SYSU.
 - ⚒️ Language: C++, Python and ...
 
 ---
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
-
-🚧 **My Todoist Stats: ⬇️**
--   :Complete my profile
--   :Add a github.io to introduce myself
+<img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" height="370" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="300" />
