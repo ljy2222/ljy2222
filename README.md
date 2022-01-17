@@ -11,5 +11,5 @@ I'm **Lin JiaYe**, a senior at SYSU.
 - ⚒️ Language: C++, Python and ...
 
 ---
-<img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" height="310" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" height="305" />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="250" />
