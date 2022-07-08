@@ -12,5 +12,5 @@ I'm **Lin JiaYe**, SYSU 🔜 THU.
 
 ---
 <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" height="305" />
-<img align="right" alt="GIF" src="https://i.gifer.com/fetch/w300-preview/02/02c6b9739476126b4a3925a56f147077.gif" width="45%" height="250" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/lz67zZWfWPsWnuGH0s/giphy.gif" width="45%" height="250" />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="250" />
