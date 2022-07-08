@@ -2,7 +2,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ljy2222&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-I'm **Lin JiaYe**, a senior at SYSU.
+I'm **Lin JiaYe**, SYSU -> THU.
 
 - 💻 Working: in-network intelligence
 - 🚀 Learning: P4 program development
