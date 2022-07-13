@@ -11,5 +11,6 @@ I'm **Lin JiaYe**, SYSU 🔜 THU.
 - ⚒️ Language: Python, C++ and ...
 
 ---
-<img align="center" alt="GIF" src="https://media.giphy.com/media/3qGw96Jowb8sM/giphy.gif" width="50%" height="500px" />
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/ZLwBOtjp1E7pd82ruq/giphy.gif" width="50%" height="500px" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="50%" height="500px" /> -->
