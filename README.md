@@ -12,5 +12,5 @@ I'm **Lin JiaYe**, SYSU 🔜 THU.
 
 ---
 
-<img align="right" alt="GIF" width="500" height="320" src="https://media.giphy.com/media/2NIFCylJJPXWYBdMW4/giphy.gif?raw=true">
-
+<img align="left" alt="GIF" width="500" height="320" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif?raw=true">
+<img align="right" alt="GIF" width="500" height="320" src="https://media.giphy.com/media/3qGw96Jowb8sM/giphy.gif?raw=true">
