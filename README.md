@@ -5,7 +5,7 @@
 I'm **Lin JiaYe**, SYSU->THU.
 
 - 💻 Working: in-network intelligence
-- 🚀 Learning: reinforcement learning, P4 program development
+- 🚀 Learning: large language models, reinforcement learning, P4 program development
 - 👨 Pronouns: he/him
 - ⚡ Fun fact: soccer, travel, video game and ...
 - ⚒️ Language: Python, C++, Java and ...
