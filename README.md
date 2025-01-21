@@ -1,6 +1,6 @@
 ## Hey, Joeyyy is here!!! :wave:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ljy2222&theme=bear&show_icons=true">
+[//]: <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ljy2222&theme=bear&show_icons=true">
 
 I'm **Lin JiaYe**, SYSU->THU.
 
