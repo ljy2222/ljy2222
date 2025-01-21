@@ -2,7 +2,7 @@
 
 [//]: <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ljy2222&theme=bear&show_icons=true">
 
-I'm **Lin JiaYe**, SYSU->THU.
+I'm **JiaYe Lin**, SYSU->THU.
 
 - 💻 Working: recommender system, large language model, in-network intelligence
 - 👨 Pronouns: he/him
