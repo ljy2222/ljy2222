@@ -4,7 +4,7 @@
 
 I'm **JiaYe Lin**, SYSU->THU.
 
-- 💻 Working: recommender system, large language model, in-network intelligence
+- 💻 Working: large language model, recommender system, reinforcement learning
 - 👨 Pronouns: he/him
 - ⚡ Fun fact: soccer, travel, video game and ...
 - ⚒️ Language: Python, C++, and ...
